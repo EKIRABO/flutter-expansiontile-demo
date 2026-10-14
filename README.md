@@ -33,4 +33,4 @@ This property changes the background color when the tile is expanded. I used a l
 
 ## Screenshot
 
-![ExpansionTile Demo](screenshots/expansion_tile_demo.png)
+![ExpansionTile Demo](lib/screenshots/expansion_tile_demo.png)
