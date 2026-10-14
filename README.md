@@ -7,6 +7,10 @@ This project is a simple Student Help Center app built using Flutter. It demonst
 ## How to Run the App
 
 1. Clone this repository.
+
+`git clone https://github.com/EKIRABO/flutter-expansiontile-demo.git` 
+
+
 2. Open the project in VS Code or Android Studio.
 3. Open the terminal and run:
 
